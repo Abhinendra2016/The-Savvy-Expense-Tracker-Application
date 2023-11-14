@@ -26,7 +26,7 @@ The Savvy Expense Tracker is designed to provide a simple and effective way to k
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Abhinendra2016/savvy-expense-tracker.git
+    git clone https://github.com/Abhinendra2016/The-Savvy-Expense-Tracker-Application.git
     ```
 
 2. Open the `index.html` file in your web browser.
